@@ -4,7 +4,7 @@ The dashboards analyze NYPD Motor Vehicle Collision Data, focusing on injury and
 
 The goal of this project was to practice building meaningful visualizations, apply analytical thinking, and demonstrate my ability to work with BI tools like IBM Cognos.
 
- 📊 **Dashboard**
+  **Dashboard**
  
 **1. Pedestrians & Cyclists – Injury & Fatality Trends**
 This dashboard highlights the injury and fatality patterns specifically for pedestrians and cyclists.
@@ -27,17 +27,17 @@ Key insights include:
  * Interactive timeline to track yearly changes in injuries and fatalities.
 
 
-**⚙️ Tools & Skills Applied**
+** Tools & Skills Applied**
 
-- IBM Cognos Analytics → for building dashboards and visualizations
+- IBM Cognos Analytics -> for building dashboards and visualizations
 
-- Data Analytics Concepts → applied filtering, grouping, and breakdowns to highlight trends
+- Data Analytics Concepts -> applied filtering, grouping, and breakdowns to highlight trends
 
-- Storytelling with Data → focused on road safety insights and vulnerable users
+- Storytelling with Data -> focused on road safety insights and vulnerable users
 
-- GitHub → showcasing projects professionally
+- GitHub -> showcasing projects professionally
 
-**🚀 About This Project**
+** About This Project**
 
 1. Dataset: NYPD Motor Vehicle Collision Data (available within IBM Cognos Analytics)
 
@@ -45,4 +45,4 @@ Key insights include:
 
 3. Outcome: Built two dashboards that visualize critical insights into vulnerable road users.
 
-✅ With this repository, my intention is to demonstrate my familiarity with business intelligence dashboards and my ability to present clear, actionable insights from data.
+ With this repository, my intention is to demonstrate my familiarity with business intelligence dashboards and my ability to present clear, actionable insights from data.
