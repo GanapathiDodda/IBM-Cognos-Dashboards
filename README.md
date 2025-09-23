@@ -27,7 +27,7 @@ Key insights include:
  * Interactive timeline to track yearly changes in injuries and fatalities.
 
 
-** Tools & Skills Applied **
+**Tools & Skills Applied**
 
 - IBM Cognos Analytics -> for building dashboards and visualizations
 
@@ -37,7 +37,7 @@ Key insights include:
 
 - GitHub -> showcasing projects professionally
 
-** About This Project **
+**About This Project**
 
 1. Dataset: NYPD Motor Vehicle Collision Data (available within IBM Cognos Analytics)
 
