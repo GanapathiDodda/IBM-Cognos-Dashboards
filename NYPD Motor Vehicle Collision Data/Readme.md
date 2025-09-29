@@ -1,3 +1,5 @@
+# NYPD Motor Vehicle Collision Dashboards
+
 These dashboards analyze NYPD Motor Vehicle Collision Data, focusing on injury and fatality trends among vulnerable road users such as pedestrians, cyclists, and motorists.
 
 The goal of this project was to practice building meaningful visualizations, apply analytical thinking, and demonstrate my ability to work with BI tools like IBM Cognos.
