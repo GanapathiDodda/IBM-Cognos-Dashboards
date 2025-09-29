@@ -1,48 +1,34 @@
 # IBM-Cognos-Dashboards
 Practicing and creating IBM Cognos dashboards on various datasets to explore insights and trends. This repository reflects my journey in building a strong data analytics and visualization portfolio.
-The dashboards analyze NYPD Motor Vehicle Collision Data, focusing on injury and fatality trends among vulnerable road users such as pedestrians, cyclists, and motorists.
 
-The goal of this project was to practice building meaningful visualizations, apply analytical thinking, and demonstrate my ability to work with BI tools like IBM Cognos.
+Each folder in this repository contains a separate dashboard project, complete with:
 
-  **Dashboard**
- 
-**1. Pedestrians & Cyclists – Injury & Fatality Trends**
-This dashboard highlights the injury and fatality patterns specifically for pedestrians and cyclists.
-Key insights include:
+* Dashboard .gif walkthroughs
 
- * Total number of injured pedestrians and cyclists.
+* Dataset description
 
- * Fatality counts broken down by pedestrians and cyclists.
+* Key insights & findings
 
- * Year-over-year trends with an interactive timeline filter.
+* Individual README.md files with explanations
 
-**2. Vulnerable Road Users – Injury & Fatality Trends**
-This dashboard provides a broader view of all vulnerable road users, including pedestrians, cyclists, and motorists.
-Key insights include:
+The goal of this repository is to explore insights, uncover trends, and strengthen my data analytics and visualization portfolio.
 
- * Total injuries and fatalities across all categories.
+**Tools & Skills**
 
- * Separate breakdowns for pedestrians, cyclists, and motorists.
+* Visualization Tool: IBM Cognos Analytics
 
- * Interactive timeline to track yearly changes in injuries and fatalities.
+* Datasets: Sample datasets from IBM Cognos and external open datasets
 
+**Purpose of this Repository**
 
-**Tools & Skills Applied**
+->Practice dashboard development using IBM Cognos Analytics
 
-- IBM Cognos Analytics -> for building dashboards and visualizations
+->Explore patterns, insights, and business trends across different industries
 
-- Data Analytics Concepts -> applied filtering, grouping, and breakdowns to highlight trends
+->Build a strong portfolio in data analytics and visualization
 
-- Storytelling with Data -> focused on road safety insights and vulnerable users
+->Share knowledge and encourage collaboration in the data community
 
-- GitHub -> showcasing projects professionally
+**Conclusion**
 
-**About This Project**
-
-1. Dataset: NYPD Motor Vehicle Collision Data (available within IBM Cognos Analytics)
-
-2. Objective: To explore road safety patterns and practice BI dashboarding skills.
-
-3. Outcome: Built two dashboards that visualize critical insights into vulnerable road users.
-
- With this repository, my intention is to demonstrate my familiarity with business intelligence dashboards and my ability to present clear, actionable insights from data.
+This repository reflects my practice in building dashboards with IBM Cognos Analytics across diverse datasets. Each project highlights my ability to turn raw data into clear, actionable insights. It serves as a step forward in strengthening my data analytics and visualization portfolio.
